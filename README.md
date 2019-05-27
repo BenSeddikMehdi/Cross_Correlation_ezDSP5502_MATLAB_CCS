@@ -13,4 +13,4 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 
 5- plot the results on the graph window of CCSv9 environment.
 
-
+6- Compare the results of CCSv9 with those of MATLAB.
