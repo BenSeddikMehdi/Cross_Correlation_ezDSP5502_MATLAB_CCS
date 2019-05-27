@@ -7,4 +7,7 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 
 2- Store the values of the two signals into CSV files.
 
+3- Write the code of the Cross-Correlation in C language.
+
+
 
