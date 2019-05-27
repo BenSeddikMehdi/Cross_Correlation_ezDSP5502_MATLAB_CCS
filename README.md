@@ -26,3 +26,8 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 ## Cross Correlation
 
 ![CrossCorrelation](https://user-images.githubusercontent.com/43390471/58428173-3176e700-8091-11e9-81bb-c8c183a64ecb.png)
+
+
+
+## By El Mehdi BENSEDDIK
+# 27/05/2019
