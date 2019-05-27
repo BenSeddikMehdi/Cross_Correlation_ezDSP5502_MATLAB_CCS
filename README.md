@@ -14,3 +14,7 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 5- plot the results on the graph window of CCSv9 environment.
 
 6- Compare the results of CCSv9 with those of MATLAB.
+
+** Pure Sinus 
+![PureSinus](https://user-images.githubusercontent.com/43390471/58427950-a4339280-8090-11e9-92ab-f0ddc79dcd6b.png)
+
