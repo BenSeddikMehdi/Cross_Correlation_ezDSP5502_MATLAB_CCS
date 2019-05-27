@@ -11,5 +11,6 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 
 4- Run the whole script of the Cross-Correlation CCS project onto CCSv9.
 
+5- plot the results on the graph window of CCSv9 environment.
 
 
