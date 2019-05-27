@@ -22,3 +22,7 @@ First of all, to implement the Cross-Correlation onto ezDSP5502 there are a few 
 ## Shifted Sinus
 
 ![ShiftedSinus](https://user-images.githubusercontent.com/43390471/58428024-d8a74e80-8090-11e9-86ee-5f8b003e780e.png)
+
+## Cross Correlation
+
+![CrossCorrelation](https://user-images.githubusercontent.com/43390471/58428173-3176e700-8091-11e9-81bb-c8c183a64ecb.png)
